@@ -13,7 +13,7 @@ A)  JDollar(JWEB)- (part1,part2,part3,part4,part5)...
 
 b) NJDOLLAR
 
-c)  OAKJAVA(JAVA7) with JAVA/j2ee and  JREE, JAVA8.0
+c)  OAKJAVA(JAVA7)  and  JREE, JAVA8.0,etc
 
 d)  DOTNET  with NSTAR,RDOTNET,etc
 
